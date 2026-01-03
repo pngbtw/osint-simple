@@ -1,0 +1,9 @@
+requests
+requests[socks]
+pysocks
+maigret
+holehe
+sherlock-project
+h8mail
+telegram-phone-number-checker
+ghunt

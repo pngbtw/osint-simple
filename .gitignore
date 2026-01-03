@@ -1,0 +1,19 @@
+# Ignore secrets and config
+.env
+*.session
+*.session-journal
+
+# Ignore virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Ignore temp files and results
+*.txt
+!requirements.txt
+results.json
+*.log
+
+# Ignore Reports
+reports/
+*.pdf
